@@ -1,6 +1,6 @@
-Deploy Static Website on AWS
+Deploy Static Website on Azure
 
-In this project, you will deploy a static website to AWS using S3, CloudFront, and IAM.
+In this project, you will deploy a static website to 
 
 The files included are: 
 
